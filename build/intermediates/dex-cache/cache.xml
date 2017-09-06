@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/13cc227aa23c0ebc828943bd3c5437c2d6ab5abd/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_1031fc2a029687f18a6c136190d796abe41b120a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/easeui/easeui/build/intermediates/bundles/default/libs/HMSSdkPush_2.5.1.300.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ce01f6625d2118538e8cad76681dd04d89416fbc">
+        <dex dex="/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/transforms/dex/debug/folders/1000/8/HMSSdkPush_2.5.1.300_42f5b0d0bfa6509787460291caf0fda6004e66e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_fe0aa882ed67d269c43943f236b9ffb98416ff73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/easeui/easeui/build/intermediates/bundles/default/libs/hyphenatechat_3.3.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1190bb303438e4ba54da3330cd91be4968a178e0">
+        <dex dex="/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/transforms/dex/debug/folders/1000/8/hyphenatechat_3.3.4_e98a395af21d493809e6922b3c9c01f14ff91038/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/2a43fe7b23a805cf9995609ce98c1dddc851620f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_42c12a35df843fbb2bb4ab1e734915e080ef651b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/5eaa25e5da71cb478feb3dc828a5340f0b46fe1c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_65491c3504c9eaab5bc09d64be43187cd0f40f98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.1/5f645bf60e3b88ccc02bd2a4018c5e3ef2f77d0a/parse-android-1.13.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5f645bf60e3b88ccc02bd2a4018c5e3ef2f77d0a">
+        <dex dex="/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/parse-android-1.13.1_1a52848a1fccdf5d95a99a319a11719dce28cefa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/easeui/easeui/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d6fd6eaa001f078c27ff0af6b88357a3a3308937">
+        <dex dex="/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/transforms/dex/debug/folders/1000/4/classes_23f0acc2cc30f23e74a7c5a1be1b66ce38db33b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_0e7a81b1d1e31e29f123840f6565980831424863/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/redpacketlibrary/build/intermediates/bundles/default/libs/alipaySdk-20161129.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f2c4670d5c94b2cc30ec34593994b2d3f7de588a">
+        <dex dex="/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/transforms/dex/debug/folders/1000/8/alipaySdk-20161129_c1080136a004445d0fd3b453a4b9f286cf29ce5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/6da584cec0d0cc809dac60d59bd539696212ced5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_76d7d80c819ba2a7deaacaf2341e8c74212b7684/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/5eaa25e5da71cb478feb3dc828a5340f0b46fe1c/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_bedd289c0eb847de16089fbe1d264e0440a27bfa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/libs/umeng-analytics-v5.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0f9eccf79ae6006e4346725b09114182dca0c023">
+        <dex dex="/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/transforms/dex/debug/folders/1000/2/umeng-analytics-v5.2.4_819bffbf13e085f0ade3bb7693f386d4195dbbe6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/5215c3ede0762181f9d63c7b28cd7ffaa4a693c0/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9f5432f28398dfde8739748b609700aa52d76585/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/13cc227aa23c0ebc828943bd3c5437c2d6ab5abd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e877115e66df34b7460303b1cdbde18d5213a0c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/2b723ec1b25fef8d8f111a17379ff5d1f8193916/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6bc5a235ff229e615817909e416109bf0f11b86a">
+        <dex dex="/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_abb223f65ccfd3691138443b5d549eecda656e40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/easeui/easeui/build/intermediates/bundles/default/libs/org.apache.http.legacy.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f6a788057b9f17f30905e43c2b4ed3e02dc04da3">
+        <dex dex="/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/transforms/dex/debug/folders/1000/8/org.apache.http.legacy_22f5f723db5654af940cb80df8c5a7587e997461/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/libs/umeng-update-v2.6.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7bfeea30c4995f90a4374ce4177772a4579f2797">
+        <dex dex="/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/transforms/dex/debug/folders/1000/2/umeng-update-v2.6.0.1_e6932e5da283aa5adf51b242c861f3464941a882/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/easeui/easeui/build/intermediates/bundles/default/libs/MiPush_SDK_Client_2_2_19.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6231c3f3409df7b3172bc5e89f68fbc6beec733e">
+        <dex dex="/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/transforms/dex/debug/folders/1000/8/MiPush_SDK_Client_2_2_19_34be9834163e1f86cbf9df9e3b4888eb8bf64277/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/5f318ba9a3779ed17d2ec122e1a537bd35a5a873/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3a194766cbb337d55e2d8292f60db4939c973964/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d24c5b5b3e29123537ead6deb43b8bcdcba6bbd9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/easeui/easeui/build/intermediates/bundles/default/libs/google-play-services.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dc8ba9e80c63fa62ffe4130ae3487a2ec25912ef">
+        <dex dex="/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/transforms/dex/debug/folders/1000/8/google-play-services_1d2c4d8fa365f86539e922ed26538362022ea365/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/redpacketlibrary/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="973733a12e28ec364770fca8f17905582d847bc3">
+        <dex dex="/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/transforms/dex/debug/folders/1000/4/classes_c1bfdabb403e417188141cc9ac911650227197d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_f231964c2701473cce363f629c4a38d8495d4408/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/easeui/easeui/build/intermediates/bundles/default/libs/HMSSdkBase_2.5.1.300.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6a0b76ebe78c5c6de6043ccc8071beaa21789f93">
+        <dex dex="/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/transforms/dex/debug/folders/1000/8/HMSSdkBase_2.5.1.300_45d4d020d77879eb005a1cbcd38415caed20daed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/easeui/easeui/build/intermediates/bundles/default/libs/BaiduLBS_Android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f1d3eb83228ace176170b6c5c9fa3b792011581b">
+        <dex dex="/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/transforms/dex/debug/folders/1000/8/BaiduLBS_Android_163961b37f74e4208c446682f3587d67d3c84a3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/redpacketlibrary/build/intermediates/bundles/default/libs/volley-1.0.19.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8a7a97f2584bf42e53fc1ae4a02ea4a6070a999a">
+        <dex dex="/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/transforms/dex/debug/folders/1000/8/volley-1.0.19_a1809b15d54363b6855455ba3457eab46825bc0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/12dda2327985eaa564085944f0333c8a5a44bff1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9ac8ce01b8ccde2b551ee82e0a8ec4140bc8367b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/02ca1208fd59219370b416f86b9c53dc7f8d5a68/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f32219d92e64f803309dafd017e6a0e6b7da5eb7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/30265e33142aea4ecc67ea36beca8d09211efe7c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3e91673964cfd0599f937d5a98a1fd2805a6bd91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/5f318ba9a3779ed17d2ec122e1a537bd35a5a873/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_57608c1bb0d0504bc21c683825ef751618240770/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/5215c3ede0762181f9d63c7b28cd7ffaa4a693c0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_71d1e4dc7cbabfd392ef47882bb56e1c7a82deee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/6da584cec0d0cc809dac60d59bd539696212ced5/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9b1e92b9718cfe00ad634640a2281d79a8123bc3/classes.dex" />
+    </item>
+
+</items>

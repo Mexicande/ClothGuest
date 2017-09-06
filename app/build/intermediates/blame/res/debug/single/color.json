@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/res/merged/debug/color/rp_tv_red_selector.xml",
+        "source": "/Users/apple/.android/build-cache/2b723ec1b25fef8d8f111a17379ff5d1f8193916/output/res/color/rp_tv_red_selector.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/res/merged/debug/color/em_main_botton_text_color.xml",
+        "source": "/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/src/main/res/color/em_main_botton_text_color.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/Project/easemob-sdk-3.3.4_r1/examples/ChatDemoUI3.0/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/color/abc_tint_switch_track.xml"
+    }
+]
